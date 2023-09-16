@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-
 /* Colours Section */
 
 
@@ -181,7 +180,6 @@ footer {
     background-color: #525252;
     color: #fafafa;
     min-height: 120px;
-    margin: 0;
 }
 
 .cv-pdf i {
@@ -241,6 +239,7 @@ footer {
 
 /* Personal Info */
 
+
 .personal-info-item {
     margin-bottom: 20px;
     display: block;
@@ -272,6 +271,13 @@ footer {
 .personal-info-item .value {
     position: relative;
     width: 60%;
+}
+
+@media screen and (min-width: 992px){
+    .personal-info {
+        height: 47vh;
+    }
+    
 }
 
 /* Skills Section */
