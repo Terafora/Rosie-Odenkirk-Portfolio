@@ -9,7 +9,7 @@ This is a practice portfolio site made using HTML, CSS and Bootstrap. Unlike the
 ![スクリーンショット 2023-09-16 204231](https://github.com/terrafora1/Rosie-Odenkirk-Portfolio/assets/144109245/2d752899-081d-4af5-a7f8-6d277c53f1e8)
 
 
-The site is fullt responisve and works on all form factors.
+The site is fully responisve and works on all form factors.
 If you do encounter any errors then please contact me on here or via e-mail: Charlie.Stone649@gmail.com
 
 ## Technologies:
